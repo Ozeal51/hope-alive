@@ -223,7 +223,7 @@ function ProductCard({ label, image }) {
       </div>
       <div className="flex items-center justify-between gap-3 p-5">
         <div>
-          <p className="text-xs uppercase tracking-[0.24em] text-[color:var(--gold)]">Fresh from the farm</p>
+          <p className="text-xs uppercase tracking-[0.24em] text-[color:var(--gold)]">Fresh from hope alive farm</p>
           <h3 className="mt-2 text-lg font-semibold text-[color:var(--text-strong)]">{label}</h3>
         </div>
         <ArrowRight className="h-5 w-5 shrink-0 text-[color:var(--primary)] transition group-hover:translate-x-1" />
