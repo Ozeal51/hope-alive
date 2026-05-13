@@ -48,8 +48,8 @@ export function Footer() {
         <div>
           <p className="text-xs font-semibold uppercase tracking-[0.24em] text-[color:var(--gold)]">Reach us</p>
           <div className="mt-4 space-y-3 text-sm text-[color:var(--text-strong)]">
-            <p className="flex items-center gap-2"><Phone className="h-4 w-4 text-[color:var(--primary)]" /> +234 800 000 0000</p>
-            <p className="flex items-center gap-2"><Mail className="h-4 w-4 text-[color:var(--primary)]" /> hello@hopealivefarm.com</p>
+            <p className="flex items-center gap-2"><Phone className="h-4 w-4 text-[color:var(--primary)]" /> +234 7068423121</p>
+            <p className="flex items-center gap-2"><Mail className="h-4 w-4 text-[color:var(--primary)]" /> hopealivefarm@gmail.com</p>
             <p className="flex items-center gap-2"><MapPin className="h-4 w-4 text-[color:var(--primary)]" /> Abuja, Nigeria</p>
           </div>
         </div>

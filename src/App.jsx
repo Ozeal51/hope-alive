@@ -372,7 +372,7 @@ function App() {
                   href="#about"
                   className="inline-flex items-center justify-center gap-2 rounded-full bg-[color:var(--primary)] px-7 py-4 font-semibold text-white shadow-[0_18px_35px_rgba(31,93,59,0.28)] transition hover:-translate-y-0.5 hover:bg-[color:var(--primary-2)]"
                 >
-                  Explore Our Farm
+                  Explore Our Farm now
                   <ArrowRight className="h-5 w-5" />
                 </a>
                 <a
