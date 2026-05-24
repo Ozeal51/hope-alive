@@ -1,13 +1,1 @@
-All about the Hope alive farm you need to know
-
-This project is still under review as client has not fufilled his part of agreement .
-
-once payment is made, the work will take shape andd fucntion, this is just a testig phase
-
-The Hope ALive day 1
-Add more to the page
-and see
-
-its day 10, and he has not responded
-another day
-another day to add secured system 
+theres going to be an evry day update on this platfform to keep the streak activities up to date, bear with us as the project awaists its payment to continue buidling 
